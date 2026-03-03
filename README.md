@@ -1,7 +1,4 @@
-# Hi there! I'm Pablo Oscar Diosquez <img src="https://raw.githubusercontent.com/nand0p/nand0p/main/handwave.gif" width="30px">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?# Hi there! I'm Pablo Óscar Bosquez <img src="https://raw.githubusercontent.com/nand0p/nand0p/main/handwave.gif" width="30px">
+# Hi there! I'm Pablo Óscar Bosquez 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Computer+Engineering+Student;Backend-Focused+Developer;Mathematics+Educator;Systems+%26+Algorithms+Enthusiast" alt="Typing SVG" />
@@ -53,11 +50,12 @@ I have a particular interest in **algorithms, complexity analysis, and performan
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pDiosquez467&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pDiosquez467&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
 
 ---
 
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablodiosquez/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdiosquez@fi.uba.ar)
+
+**Email:** pdiosquez@fi.uba.ar
