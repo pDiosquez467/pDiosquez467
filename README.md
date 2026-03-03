@@ -1,4 +1,4 @@
-# Hi there! I'm Pablo Óscar Bosquez 👋
+# Hi there! I'm Pablo Oscar Diosquez👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Computer+Engineering+Student;Backend-Focused+Developer;Mathematics+Educator;Systems+%26+Algorithms+Enthusiast" alt="Typing SVG" />
